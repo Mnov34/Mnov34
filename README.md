@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azalphal&label=Profile%20views&color=0e75b6&style=flat" alt="azalphal" /> </p>
 
-- 🔭 I’m currently working on **a personal project**
+- 🔭 I’m currently working on:
+    - My ARPG <a href="https://gitlab.com/MNov34/entropy-of-an-open-system" target=blank>**Entropy of an Open System**</a>
+    - A vscode extension <a href="https://github.com/Mnov34/flowerplate" target=blank>**Flowerplate**</a>
 
-- 🌱 I’m currently learning **dart**
+- 🌱 I’m currently learning **godot**
 
 - 📫 Here's my mail to reach me : **maelnouvel@duck.com**
 
